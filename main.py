@@ -1,3 +1,5 @@
+# THIS WAS FULLY MADE BY omicron.nn IN DISCORD | ALL CREDITS TO HIM
+
 import os
 import discord
 import ctypes

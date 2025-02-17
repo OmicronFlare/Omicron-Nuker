@@ -1,6 +1,6 @@
 <p align= "center">
    <kbd>
-   <img  src="https://media.discordapp.net/attachments/1327999048728445040/1330233249124974612/cmd_vNlfsmVqwD.png?ex=678d3bc1&is=678bea41&hm=6c801c8629a6d282601d3f8e21ecf6a72fa7416e571d6a61a862b7abd3ab2bcd&=">
+   <img  src="https://images-ext-1.discordapp.net/external/dro8eGYWq_HJHi2FRejpfaR-4SkYTB7Srs9G0bUWPV0/https/repository-images.githubusercontent.com/918730337/35c5af38-81b2-4e05-81d7-f640acc3bb0e">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/OmicronFlare/Omicron-Nuker">
    <img src="https://img.shields.io/github/stars/top/OmicronFlare/Omicron-Nuker">
